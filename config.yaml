@@ -3,7 +3,8 @@ theme: "up-business-theme"
 languageCode: "en-us"
 
 title: I'm Phan
-
+permalinks:
+  posts: /:title.html
 # googleAnalytics: ""
 
 summaryLength: 20

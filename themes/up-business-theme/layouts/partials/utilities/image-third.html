@@ -1,3 +1,13 @@
+{{ if isset . "logo"}}
+{{ with resources.Get .logo }}
+  <img class="" src="{{ .Permalink }}" alt="{{ .Title }}" width="{{ $.width }}" height="{{ $.height }}">
+{{ end }}
+{{ else }}
 {{ with resources.Get . }}
   <img class="" src="{{ .Permalink }}" alt="{{ .Title }}" width="{{ div .Width 3 }}" height="{{ div .Height 3 }}">
 {{ end }}
+{{ end }}
+
+
+
+

@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "A **developer** helps your **business grow**"
+  text: "I have in-depth experiences developing web apps, and I always try my best to delivery higher quality product."
 
   buttonPrimary:
     label: "How we work"

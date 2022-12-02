@@ -2,10 +2,17 @@ enabled: true
 id: "brands"
 
 content:
-  title: "We work with customers brands and startups "
+  title: "I love ❤ to work with open source softwares"
   items:
-    - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
+    - logo: "images/brands-laravel.svg"
+      swidth: 120
+      height: "auto"
+    - logo: "images/brands-cakephp.svg"
+      width: 120
+      height: "auto"
+    - logo: "images/brands-wordpress.svg"
+      width: 120
+      height: "auto"
+    - logo: "images/brands-drupal.svg"
+      width: 120
+      height: "auto"
