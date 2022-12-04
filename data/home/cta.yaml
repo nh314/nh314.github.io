@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Start your business now!"
-  image: "images/services-web-development.png"
+  image: "images/two-mans-handshake.jpg"
   button:
     label: "Let's talk"
     url: "#"

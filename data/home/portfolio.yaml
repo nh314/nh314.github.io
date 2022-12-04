@@ -3,9 +3,9 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "The indispensable artifact for your business in the age of the Internet. An e-commerce website can accelerate your customers' buying process and give your business the ability to respond to market demands faster."
+    pretitle: "Website Development"
+    title: "I develop business websites"
+    text: "The indispensable artifact for your business in the age of the Internet. A website can accelerate your customers' buying process and give your business the ability to respond to market demands faster."
 
     buttons:
       - label: "See live"
@@ -14,22 +14,10 @@ content:
       - label: "Read more"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons:
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/portfolio-application.png"
+    pretitle: "Application Development"
+    title: "I develop applications"
+    text: "Let take advantage of technology in your business, a good software application can help you operate the business faster, better and more."
 
     buttons:
       - label: "See live"
