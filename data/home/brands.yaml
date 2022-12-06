@@ -5,14 +5,14 @@ content:
   title: "I love ❤ to work with open source softwares"
   items:
     - logo: "images/brands-laravel.svg"
-      swidth: 120
-      height: "auto"
+      width: 114
+      height: 29
     - logo: "images/brands-cakephp.svg"
       width: 120
-      height: "auto"
+      height: 24
     - logo: "images/brands-wordpress.svg"
       width: 120
-      height: "auto"
+      height: 27
     - logo: "images/brands-drupal.svg"
       width: 120
-      height: "auto"
+      height: 120

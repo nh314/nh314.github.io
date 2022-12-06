@@ -1,3 +1,5 @@
 {{ with resources.Get . }}
+{{ with .Resize "31x webp" }}
   <img class="" src="{{ .Permalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+{{ end }}
 {{ end }}
