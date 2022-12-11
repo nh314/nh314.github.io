@@ -17,7 +17,7 @@ content:
   - image: "images/portfolio-application.png"
     pretitle: "Application Development"
     title: "I develop applications"
-    text: "Let take advantage of technology in your business, a good software application can help you operate the business faster, better and more."
+    text: "Let take advantage of technology in your business, a good software can help you operate your business faster, better and more."
 
     buttons:
       - label: "See live"
