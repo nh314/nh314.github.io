@@ -6,10 +6,10 @@ content:
   text: "I have in-depth experiences developing web apps, and I always try my best to delivery higher quality product."
 
   buttonPrimary:
-    label: "How we work"
-    url: "#"
+    label: "How I work"
+    url: "#how-i-work"
 
   buttonSecondary:
     label: "Let's talk"
-    url: ""
+    url: "#contactModal"
 

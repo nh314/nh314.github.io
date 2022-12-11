@@ -23,8 +23,8 @@ params:
     faviconColor: "#000000"
 
   social:
-    facebook: "#"
-    twitter: "#"
+    facebook: "https://facebook.com/nh314"
+    twitter: "https://twitter.com/nh314_com"
 
   contact:
     - "contact@nh314.com"
@@ -37,51 +37,27 @@ params:
 menus:
   main:
     - name: "Home"
-      url: "/#hero"
+      url: "/"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
+    - name: "Post"
+      url: "/post"
       weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
   buttons:
     - name: "Contact me"
-      url: "/#"
-      weight: 5
+      url: "#contactModal"
+      weight: 1
       pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"
-      url: "/#hero"
+      url: "/"
       weight: 1
-
-    - name: "How we work"
-      url: "/#"
-      weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
 
     - name: "Blog"
       url: "/blog"
-      weight: 5
+      weight: 3
 
 taxonomies:
   series: "series"
