@@ -6,4 +6,4 @@ content:
   image: "images/two-mans-handshake.jpg"
   button:
     label: "Let's talk"
-    url: "#"
+    url: "#contactModal"

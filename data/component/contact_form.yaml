@@ -1,1 +1,7 @@
-title: Feel free to contact me through these ways
+channel:
+  - icon: facebook
+    url: "https://facebook.com/nh314"
+  - icon: twitter
+    url: "https://twitter.com/nh314_com"
+  - icon: email
+    url : "mailto:contact@nh314.com"

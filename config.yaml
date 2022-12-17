@@ -23,12 +23,15 @@ params:
     faviconColor: "#000000"
 
   social:
+    email: "mailto:contact@nh314.com"
     facebook: "https://facebook.com/nh314"
     twitter: "https://twitter.com/nh314_com"
 
   contact:
     - "contact@nh314.com"
     - "Skype: phan.nguyen91"
+
+  contact_email: contact@nh314.com
 
   copyright: "© 2022 I'm Phan - All Rights Reserved"
 
