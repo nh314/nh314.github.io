@@ -5,7 +5,7 @@
         <h4 class="fs-4 fw-semibold text-uppercase text-primary">{{ .Site.Title }}</h4>
         <p class="small text-black-61">{{ .Site.Params.description | safeHTML }}</p>
         {{ with .Site.Params.social }}
-        <ul class="d-flex justify-content-center justify-content-xl-start list-unstyled">
+        <ul class="d-flex justify-content-center list-unstyled">
           {{ with .facebook }}<li class="rounded-circle bg-blue-63 me-2 p-2"><a class="d-flex align-items-center justify-content-center size-16" href="{{ . }}" target="_blank">{{ partial "icons/facebook.html" }}</a></li>{{ end }}
           {{ with .twitter }}<li class="rounded-circle bg-blue-63 me-2 p-2"><a class="d-flex align-items-center justify-content-center size-16" href="{{ . }}" target="_blank">{{ partial "icons/twitter.html" }}</a></li>{{ end }}
           {{ with .email }}<li class="rounded-circle bg-blue-63 me-2 p-2"><a class="d-flex align-items-center justify-content-center size-16" href="{{ . }}" target="_blank">{{ partial "icons/email.html" }}</a></li>{{ end }}
