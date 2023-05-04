@@ -37,8 +37,6 @@ params:
 
   postProcess: false
 
-  contact_form: https://tawk.to/nh314.com
-
 menus:
   main:
     - name: "Home"
