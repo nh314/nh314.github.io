@@ -37,6 +37,8 @@ params:
 
   postProcess: false
 
+  contact_form: https://tawk.to/nh314.com
+
 menus:
   main:
     - name: "Home"
@@ -49,7 +51,7 @@ menus:
 
   buttons:
     - name: "Contact me"
-      url: "#contactModal"
+      url: https://tawk.to/nh314.com
       weight: 1
       pre: "btn btn-primary text-light"
 

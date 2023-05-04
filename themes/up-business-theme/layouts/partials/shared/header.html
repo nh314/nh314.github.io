@@ -18,7 +18,7 @@
       <ul class="navbar-nav ms-xl-3 mb-2 mb-xl-0">
         {{ range .Site.Menus.buttons }}
           <li class="nav-item">
-            <a class="nav-link btn btn-primary text-light px-4" data-bs-toggle="modal" href="{{ .URL }}">{{ .Name }}</a>
+            <a class="nav-link btn btn-primary text-light px-4" target="_blank" href="{{ .URL }}">{{ .Name }}</a>
           </li>
         {{ end }}
       </ul>
