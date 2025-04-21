@@ -11,7 +11,7 @@ summaryLength: 20
 
 params:
   title: "I'm Phan"
-  description: "I specialize in providing services to develop and maintain <br> websites, applications for customers."
+  description: "I develop and maintain websites and applications,<br> tailored for my clients' needs."
   images:
     - "images/hero-image.png"
 
